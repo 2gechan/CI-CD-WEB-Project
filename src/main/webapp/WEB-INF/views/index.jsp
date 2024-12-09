@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>Jenkins Cron Build OK</h2>
+    <h2>Jenkins Cron Build OK Version 1.0</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
